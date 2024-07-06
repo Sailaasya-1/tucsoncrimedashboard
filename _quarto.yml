@@ -9,6 +9,9 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href : data.qmd
+        text: Data
+        
       - text: Dashboard
         href: dashboard.qmd
       
