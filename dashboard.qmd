@@ -1,0 +1,16 @@
+---
+title: "dashboard.qmd"
+format: html
+output: 
+  html: 
+    embed-resources: true
+---
+
+```{r}
+
+# R code to load and visualize crime trends
+library(tidyverse)
+
+crime_data <- read_csv("data/tucson_crime_data.csv")
+
+```
