@@ -11,6 +11,5 @@ output:
 # R code to load and visualize crime trends
 library(tidyverse)
 
-crime_data <- read_csv("data/tucson_crime_data.csv")
-
+#Adding dataset
 ```
